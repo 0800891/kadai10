@@ -18,7 +18,7 @@
 ## ③DEMO
 
 デプロイしている場合はURLを記入（任意）
-https://michey.sakura.ne.jp/kadai09_/index.php
+https://michey.sakura.ne.jp/kadai10/select.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 管理者
